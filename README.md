@@ -7,3 +7,6 @@ Using the said dictionary, a list of sentences and a list of words and I created
 I trained my classifiers and chose the right parameters that would minimize my loss. The accuracy is around 67-70%.
 
 Most classifiers I tried(like sklearn.svm.SVC) are using support vectors in order to solve this classifying problem, and an AI with a neural network was not needed.
+A support vector machine tries to find a straight line that would best separate the feature-label data of the classes. 
+
+[!Screenshot](support-vectors-and-maximum-margin.png)
