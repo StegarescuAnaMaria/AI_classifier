@@ -16,3 +16,6 @@ If the data is not separable, the data is transfered into a space of one dimensi
 
 ![Screenshot](svm.png)
 
+The test file computes the confusion matrix. The confusion matrix is calculated by counting the examples that were classified correctly and the miscassified ones. 
+In this case [[nr of examples classified corectly for class 0, nr of examples of class 1 that were miscassified], 
+[nr of examples of class 0 that were miscassified, nr of examples classified corectly for class 1]]. 
