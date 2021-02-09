@@ -11,7 +11,7 @@ A support vector machine tries to find a straight line that would best separate 
 
 ![Screenshot](support-vectors-and-maximum-margin.png)
 
-If the data is not separable, the data is transfered into a space of one dimension higher (for example 2d -> 3d), and tries to separate the data by finding a hyperplane 
+If the data is not separable, the data is transfered into a space of one dimension higher (for example 2d -> 3d), and the SVM tries to separate the data by finding a hyperplane 
 (for a 3d space, it would use a 2d space for separation).
 
 ![Screenshot](svm.png)
